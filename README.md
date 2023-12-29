@@ -1,18 +1,10 @@
-### Hi there 👋
-
-> ## http://tinymod.xyz
-
-<!--
-**twinsielab/twinsielab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github.com/twinsielab/tinymod/assets/148714701/c1d24a04-cfb8-4eb1-add9-a8157d6d3316" width="70%" ><br>
+</p>
+<h1 align="center">TinyMod</h1> 
+<p align="center">A Tiny, Mostly 3D Printed, Modular, Customizable, Open-source 3D Printer</p>
+<p align="center">
+  TwinsieLab - 2023<br>
+  By Joe and Victor<br>
+  <h1 align="center" href="https://tinymod.xyz/tms">https://tinymod.xyz</h1>
+</p>
